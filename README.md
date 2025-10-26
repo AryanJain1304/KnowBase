@@ -1,4 +1,4 @@
-# RAG Smart Assistant Chat
+# KnowBase
 
 A **Retrieval-Augmented Generation (RAG)** assistant built with **Streamlit**, **FAISS**, **SentenceTransformers**, and **Ollama**.  
 It lets you **upload documents** (PDF, Markdown, or text), builds a local vector index, and allows you to **chat with your data** — all locally.
