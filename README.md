@@ -39,7 +39,7 @@ It lets you **upload documents** (PDF, Markdown, or text), builds a local vector
 
 ```bash
 git clone https://github.com/AryanJain1304/KnowBase.git
-cd rag-smart-assistant
+cd KnowBase
 ```
 
 ### 2. Create and activate a virtual environment
