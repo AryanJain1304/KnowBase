@@ -38,7 +38,7 @@ It lets you **upload documents** (PDF, Markdown, or text), builds a local vector
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/rag-smart-assistant.git
+git clone https://github.com/AryanJain1304/KnowBase.git
 cd rag-smart-assistant
 ```
 
