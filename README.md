@@ -68,7 +68,7 @@ ollama run mistral
 
 ## Folder Structure
 ```bash
-rag-smart-assistant/
+KnowBase/
 │
 ├─ app.py                  # Main Streamlit app
 ├─ ollama_client.py        # LLM query streaming helper
